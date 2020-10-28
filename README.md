@@ -1,2 +1,2 @@
 # ASCII-art-from-image
-Reads an image file and returns ASCII art.
+Exercise to read images and generate ASCII art from them. Written in C.
